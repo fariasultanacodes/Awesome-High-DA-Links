@@ -275,13 +275,6 @@ We welcome contributions to expand and improve this list:
 ## **Disclaimer:**
 The provided platforms have been manually reviewed for their domain authority and relevance. DA values are subject to change, and we recommend verifying them before implementing SEO strategies.
 
----
-
-**Author**: Faria Sultana
-**GitHub Username**: fariasultanacodes
-**Website**: [fariasultanacodes.com](https://fariasultanacodes.com)
-**Email**: fariasultanacodes@gmail.com
-
----
+--
 
 *Let's boost your SEO to the next level with these top-tier platforms!* 🌐
